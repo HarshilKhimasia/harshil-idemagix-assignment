@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.container-cust {
+  padding: 10px 100px;
+}
+
+head nav ul {
+  align-items: center;
+  justify-content: space-between;
+}
+head nav ul li {
+  list-style-type: none;
+}
+head nav ul li a {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
